@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <title>WCB カフェホーム</title>
+  <meta name="description:" content="くつろげるカフェホーム">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="page-header wrapper">
+
+  <h1><a href="WCBカフェホーム.html"><img class="logo" src="images/logo.jpg " alt="WCBカフェホーム"</a></h1>
+
+    <nav>
+      <ul class="main-nav">
+        <li><a href="news.html">News</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+</header>
+
+<div class="home-content wrapper">
+
+  <h2>We'll make Your Day</h2>
+  <p>お洒落なカフェで癒やされてみませんか？無添加の食材で体の中からリフレッシュ。</p>
+  <a class="button" href="menu.html">メニューを見る</a>
+
+</div>
+
+
+
+
+
+
+</body>
+
+</html>
